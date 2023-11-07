@@ -1,4 +1,4 @@
-let calculoPartidas = partidas(80,0)
+let calculoPartidas = partidas(140,50)
 
 function partidas(vitorias, derrotas){
     let calculo = vitorias - derrotas
